@@ -1,0 +1,6 @@
+{
+  "name": "SpeakFlow AI",
+  "description": "AI-Powered English Speaking, Conversation Practice and Personal Language Coaching Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
